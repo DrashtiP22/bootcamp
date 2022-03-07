@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>Video Effects</title>
+        <style type="text/css">
+            .fullscreen
+            {
+                position: fixed;
+                top:0px;
+                right:0px;
+                bottom: 0px;
+                left: 0px;
+                z-index: -1;
+                overflow: hidden;
+                background-size: cover;
+            }
+
+            .fullscreenVideo
+            {
+                position: fixed;
+                width: auto;
+                height: auto;
+                min-height: 100%;
+                min-width: 100%;
+            }
+            h2{
+                background-color: darkblue; color: cyan; text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        
+		<div class="fullscreen">
+            <video src="V1.mp4" autoplay loop muted class="fullscreenVideo"></video>
+        </div>
+		
+		<h2>Good</h2>
+		<h2>Morning!!</h2>
+		<h2>Welcome</h2>
+    </body>
+</html>

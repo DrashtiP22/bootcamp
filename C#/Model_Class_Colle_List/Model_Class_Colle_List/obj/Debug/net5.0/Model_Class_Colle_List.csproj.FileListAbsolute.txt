@@ -1,0 +1,16 @@
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\bin\Debug\net5.0\Model_Class_Colle_List.exe
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\bin\Debug\net5.0\Model_Class_Colle_List.deps.json
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\bin\Debug\net5.0\Model_Class_Colle_List.runtimeconfig.json
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\bin\Debug\net5.0\Model_Class_Colle_List.runtimeconfig.dev.json
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\bin\Debug\net5.0\Model_Class_Colle_List.dll
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\bin\Debug\net5.0\Model_Class_Colle_List.pdb
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\obj\Debug\net5.0\Model_Class_Colle_List.csproj.AssemblyReference.cache
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\obj\Debug\net5.0\Model_Class_Colle_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\obj\Debug\net5.0\Model_Class_Colle_List.AssemblyInfoInputs.cache
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\obj\Debug\net5.0\Model_Class_Colle_List.AssemblyInfo.cs
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\obj\Debug\net5.0\Model_Class_Colle_List.csproj.CoreCompileInputs.cache
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\obj\Debug\net5.0\Model_Class_Colle_List.dll
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\obj\Debug\net5.0\refint\Model_Class_Colle_List.dll
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\obj\Debug\net5.0\Model_Class_Colle_List.pdb
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\obj\Debug\net5.0\Model_Class_Colle_List.genruntimeconfig.cache
+C:\Users\Drashti.Patel\source\repos\Model_Class_Colle_List\Model_Class_Colle_List\obj\Debug\net5.0\ref\Model_Class_Colle_List.dll

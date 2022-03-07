@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <title>Change Color Js</title>
+        <script type="text/javascript">
+            function inalert(){
+                alert("Internal Alert!!")
+            }
+            function inconfirm(){
+                if(confirm("Are You Sure want to Confirm!!"))
+                {
+                    alert("Yes I Want");
+                }
+                else
+                {
+                    alert("No I don't Want");
+                }
+            }
+            function inprompt(){
+			var fName=prompt("Enter Firstname....");
+			var lName=prompt("Enter Lastname....");
+			alert(fName+" "+lName);
+            }
+
+            function Exalert(){
+                alert("Internal Alert!!")
+            }
+            function Exconfirm(){
+                if(confirm("Are You Sure want to Confirm!!"))
+                {
+                    alert("Yes I Want");
+                }
+                else
+                {
+                    alert("No I don't Want");
+                }
+            }
+            function Exprompt(){
+			var fName=prompt("Enter Firstname....");
+			var lName=prompt("Enter Lastname....");
+			alert(fName+" "+lName);
+            }
+
+            function bodyBgBlue(){
+				document.body.style.backgroundColor="Blue";
+			}
+			function divBgYellow(){
+				document.getElementById("D1").style.backgroundColor="Yellow";
+			}
+
+			function divBGDynamic(){
+				document.getElementById("D1").style.backgroundColor=prompt("Enter color name here..");
+			}
+			function bodyBGDynamic(){
+				document.body.style.backgroundColor=prompt("Enter color name here..");
+			}
+
+			function bodyBGCP1(){
+				document.body.style.backgroundColor=document.getElementById("CP1").value;
+			}
+			function divBGCP2(){
+				document.getElementById("D1").style.backgroundColor=document.getElementById("CP2").value;
+			}
+        </script>
+        <style type="text/css">
+			body{background-color: lightcoral;}
+			div{background-color: deeppink;height: 300px;width: 300px;}
+		</style>
+    </head>
+    <body>
+        <div id="D1">
+			Hello
+		</div>
+        <input type="button" value="Alert-Inline" onclick="alert('Hello')" />&nbsp;&nbsp;
+        <input type="button" value="Confirm-Inline" onclick="confirm('Are You Sure want to Confirm!!')" />&nbsp;&nbsp;
+        <input type="button" value="Prompt-Inline" onclick="prompt('Enter Name')" />&nbsp;&nbsp;<hr/>
+
+        <input type="button" value="Alert-Internal" onclick="inalert()" />&nbsp;&nbsp;
+		<input type="button" value="Confirm-Internal" onclick="inconfirm()" />&nbsp;&nbsp;
+		<input type="button" value="Prompt-Internal" onclick="inprompt()" />&nbsp;&nbsp;<hr/>
+
+        <input type="button" value="Alert-External" onclick="Exalert()" />&nbsp;&nbsp;
+		<input type="button" value="Confirm-External" onclick="Exconfirm()" />&nbsp;&nbsp;
+		<input type="button" value="Prompt-External" onclick="Exprompt()" />&nbsp;&nbsp;<hr/>
+
+        <input type="button" value="Body Bg Blue" onclick="bodyBgBlue()" />&nbsp;&nbsp;
+		<input type="button" value="Div Bg Yellow" onclick="divBgYellow()" />&nbsp;&nbsp;
+		<hr/>
+		<input type="button" value="Body Bg Prompt" onclick="bodyBGDynamic()" />&nbsp;&nbsp;
+		<input type="button" value="Div Bg Prompt" onclick="divBGDynamic()" />&nbsp;&nbsp;
+		<hr/>
+		<input type="color" id="CP1" onchange="bodyBGCP1()" />&nbsp;&nbsp;
+		<input type="color" id="CP2" onchange="divBGCP2()" />&nbsp;&nbsp;
+    </body>
+</html>

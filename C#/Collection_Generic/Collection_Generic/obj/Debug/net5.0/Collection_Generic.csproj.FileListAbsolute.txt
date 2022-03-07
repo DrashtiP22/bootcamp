@@ -1,0 +1,16 @@
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\bin\Debug\net5.0\Collection_Generic.exe
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\bin\Debug\net5.0\Collection_Generic.deps.json
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\bin\Debug\net5.0\Collection_Generic.runtimeconfig.json
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\bin\Debug\net5.0\Collection_Generic.runtimeconfig.dev.json
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\bin\Debug\net5.0\Collection_Generic.dll
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\bin\Debug\net5.0\Collection_Generic.pdb
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\obj\Debug\net5.0\Collection_Generic.csproj.AssemblyReference.cache
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\obj\Debug\net5.0\Collection_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\obj\Debug\net5.0\Collection_Generic.AssemblyInfoInputs.cache
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\obj\Debug\net5.0\Collection_Generic.AssemblyInfo.cs
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\obj\Debug\net5.0\Collection_Generic.csproj.CoreCompileInputs.cache
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\obj\Debug\net5.0\Collection_Generic.dll
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\obj\Debug\net5.0\refint\Collection_Generic.dll
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\obj\Debug\net5.0\Collection_Generic.pdb
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\obj\Debug\net5.0\Collection_Generic.genruntimeconfig.cache
+C:\Users\Drashti.Patel\source\repos\Collection_Generic\Collection_Generic\obj\Debug\net5.0\ref\Collection_Generic.dll

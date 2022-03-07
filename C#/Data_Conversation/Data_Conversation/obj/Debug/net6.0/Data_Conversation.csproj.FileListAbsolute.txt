@@ -1,0 +1,15 @@
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\bin\Debug\net6.0\Data_Conversation.exe
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\bin\Debug\net6.0\Data_Conversation.deps.json
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\bin\Debug\net6.0\Data_Conversation.runtimeconfig.json
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\bin\Debug\net6.0\Data_Conversation.dll
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\bin\Debug\net6.0\Data_Conversation.pdb
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\obj\Debug\net6.0\Data_Conversation.csproj.AssemblyReference.cache
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\obj\Debug\net6.0\Data_Conversation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\obj\Debug\net6.0\Data_Conversation.AssemblyInfoInputs.cache
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\obj\Debug\net6.0\Data_Conversation.AssemblyInfo.cs
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\obj\Debug\net6.0\Data_Conversation.csproj.CoreCompileInputs.cache
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\obj\Debug\net6.0\Data_Conversation.dll
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\obj\Debug\net6.0\refint\Data_Conversation.dll
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\obj\Debug\net6.0\Data_Conversation.pdb
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\obj\Debug\net6.0\Data_Conversation.genruntimeconfig.cache
+C:\Users\Drashti.Patel\source\repos\Data_Conversation\Data_Conversation\obj\Debug\net6.0\ref\Data_Conversation.dll

@@ -1,0 +1,16 @@
+C:\Users\Drashti.Patel\source\repos\References\References\bin\Debug\net5.0\References.exe
+C:\Users\Drashti.Patel\source\repos\References\References\bin\Debug\net5.0\References.deps.json
+C:\Users\Drashti.Patel\source\repos\References\References\bin\Debug\net5.0\References.runtimeconfig.json
+C:\Users\Drashti.Patel\source\repos\References\References\bin\Debug\net5.0\References.runtimeconfig.dev.json
+C:\Users\Drashti.Patel\source\repos\References\References\bin\Debug\net5.0\References.dll
+C:\Users\Drashti.Patel\source\repos\References\References\bin\Debug\net5.0\References.pdb
+C:\Users\Drashti.Patel\source\repos\References\References\obj\Debug\net5.0\References.csproj.AssemblyReference.cache
+C:\Users\Drashti.Patel\source\repos\References\References\obj\Debug\net5.0\References.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drashti.Patel\source\repos\References\References\obj\Debug\net5.0\References.AssemblyInfoInputs.cache
+C:\Users\Drashti.Patel\source\repos\References\References\obj\Debug\net5.0\References.AssemblyInfo.cs
+C:\Users\Drashti.Patel\source\repos\References\References\obj\Debug\net5.0\References.csproj.CoreCompileInputs.cache
+C:\Users\Drashti.Patel\source\repos\References\References\obj\Debug\net5.0\References.dll
+C:\Users\Drashti.Patel\source\repos\References\References\obj\Debug\net5.0\refint\References.dll
+C:\Users\Drashti.Patel\source\repos\References\References\obj\Debug\net5.0\References.pdb
+C:\Users\Drashti.Patel\source\repos\References\References\obj\Debug\net5.0\References.genruntimeconfig.cache
+C:\Users\Drashti.Patel\source\repos\References\References\obj\Debug\net5.0\ref\References.dll

@@ -1,0 +1,16 @@
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\bin\Debug\net5.0\Constant_Readonly.exe
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\bin\Debug\net5.0\Constant_Readonly.deps.json
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\bin\Debug\net5.0\Constant_Readonly.runtimeconfig.json
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\bin\Debug\net5.0\Constant_Readonly.runtimeconfig.dev.json
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\bin\Debug\net5.0\Constant_Readonly.dll
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\bin\Debug\net5.0\Constant_Readonly.pdb
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\obj\Debug\net5.0\Constant_Readonly.csproj.AssemblyReference.cache
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\obj\Debug\net5.0\Constant_Readonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\obj\Debug\net5.0\Constant_Readonly.AssemblyInfoInputs.cache
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\obj\Debug\net5.0\Constant_Readonly.AssemblyInfo.cs
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\obj\Debug\net5.0\Constant_Readonly.csproj.CoreCompileInputs.cache
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\obj\Debug\net5.0\Constant_Readonly.dll
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\obj\Debug\net5.0\refint\Constant_Readonly.dll
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\obj\Debug\net5.0\Constant_Readonly.pdb
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\obj\Debug\net5.0\Constant_Readonly.genruntimeconfig.cache
+C:\Users\Drashti.Patel\source\repos\Constant_Readonly\Constant_Readonly\obj\Debug\net5.0\ref\Constant_Readonly.dll
